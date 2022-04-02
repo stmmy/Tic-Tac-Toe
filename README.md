@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-c++ program for TicTacToe, single player only
+C++ program for TicTacToe, single player only
 
 Controls:
 
