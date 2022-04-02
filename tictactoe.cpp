@@ -14,7 +14,6 @@ class tictactoe {
             if (gameover == true) {
                 return;
             }
-
             find_not_chosen();
             
             //tests if input is valid
@@ -24,8 +23,6 @@ class tictactoe {
                     cin >> move;
                 }
             }
-
-
 
             //update player move
             if (move == "tl") {gm[0][0] = 'X';}
